@@ -1,0 +1,38 @@
+Design Decisions:
+
+Color Scheme: Neutral background (#f8f8f8) to highlight product images. Red (#ff3333, #ff6666) for buttons for contrast.
+
+Layout: Responsive layout using flexbox for consistent display on all devices. Grid layout for product presentation.
+
+Visual Elements: Subtle box shadows and hover effects for interactivity. Discount badge for special offers.
+
+Typography: Clear and readable fonts (Arial, sans-serif) for better legibility.
+
+Footer Design: Simple footer with contrasting background (#333) and navigational links.
+
+
+
+
+
+Technical Implementation Details:
+
+HTML Structure: Semantic tags for structure and accessibility.
+
+CSS Styling: Styling for enhanced appearance of elements like product boxes, buttons, and footer.
+
+Responsive Design: Media queries and flexible layout for responsiveness across devices.
+
+Button Interaction: Hover effects for user feedback and engagement.
+
+
+
+
+Challenges Faced:
+
+Color Contrast: Ensuring readability with dark images required careful color selection.
+
+Responsive Design: Consistency across devices needed extensive testing and adjustment.
+
+Button Styling: Balancing button color with overall design while maintaining hierarchy.
+
+Browser Compatibility: Ensuring consistent rendering across browsers through testing and adjustments.
